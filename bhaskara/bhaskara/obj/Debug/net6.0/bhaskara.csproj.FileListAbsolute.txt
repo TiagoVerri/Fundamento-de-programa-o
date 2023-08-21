@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\bhaskara\bhaskara\bin\Debug\net6.0\bhaskara.exe
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\bhaskara\bhaskara\bin\Debug\net6.0\bhaskara.deps.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\bhaskara\bhaskara\bin\Debug\net6.0\bhaskara.runtimeconfig.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\bhaskara\bhaskara\bin\Debug\net6.0\bhaskara.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\bhaskara\bhaskara\bin\Debug\net6.0\bhaskara.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\bhaskara\bhaskara\obj\Debug\net6.0\bhaskara.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\bhaskara\bhaskara\obj\Debug\net6.0\bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\bhaskara\bhaskara\obj\Debug\net6.0\bhaskara.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\bhaskara\bhaskara\obj\Debug\net6.0\bhaskara.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\bhaskara\bhaskara\obj\Debug\net6.0\bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\bhaskara\bhaskara\obj\Debug\net6.0\bhaskara.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\bhaskara\bhaskara\obj\Debug\net6.0\refint\bhaskara.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\bhaskara\bhaskara\obj\Debug\net6.0\bhaskara.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\bhaskara\bhaskara\obj\Debug\net6.0\bhaskara.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\bhaskara\bhaskara\obj\Debug\net6.0\ref\bhaskara.dll
